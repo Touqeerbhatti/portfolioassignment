@@ -1,0 +1,171 @@
+
+*{
+  box-sizing: border-box;
+}
+
+
+
+.navbar{
+    
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+
+    
+}
+.nav-items{
+    
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    justify-content: center;
+
+
+}
+.intro{
+  height: 800px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: black;
+  border-bottom: 2px solid rgb(136, 132, 132);
+
+}
+.banner-heading{
+  text-align: center;
+  
+}
+.about-col9{
+  padding-top: 10px;
+}
+
+.img-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;;
+  
+}
+
+.btn{
+ 
+    transition-duration: 0.4s;
+  }
+  
+.btn:hover {
+    background-color: #29532a; /* Green */
+    color: white;
+  
+}
+
+.details-li{
+  list-style: none;
+  padding: 5px;
+}
+
+
+.icon-row{
+    padding-top: 25px;
+  
+    
+}
+.icon-col{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+
+
+
+.about-div{
+  border-bottom: 1px solid rgb(136, 132, 132);
+
+}
+
+
+.work-div{
+  border-bottom: 1px solid rgb(136, 132, 132);
+  padding-top: 10px;
+}
+
+.edu-div{
+  border-bottom: 1px solid rgb(136, 132, 132);
+  padding-top: 10px;
+}
+
+.skill-div{
+  border-bottom: 1px solid rgb(136, 132, 132);
+  padding-top: 10px;
+}
+
+.project-heading{
+  height: 200px;
+ justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: rgb(136, 132, 132);
+  text-align: center;
+  
+}
+
+.form-p{
+  padding-top: 30px;
+}
+
+.form-div{
+  padding-bottom: 30px;
+  
+}
+
+
+.btn-submit{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.btn-submit:hover{
+  background-color: #29532a; /* Green */
+    color: white;
+}
+
+.form-col{
+  padding-top: 20px;
+}
+
+.input-col{
+  padding-top: 20px;
+}
+
+.msg-col1{
+  padding-top: 20px;
+}
+
+.msg-col2{
+  padding-top: 20px;
+}
+
+
+
+.link{
+  text-decoration: none;
+  color: black;
+
+}
+.link:hover{
+  background-color: #161a16; /* Green */
+    color: white;
+    margin: 2px 1px;
+    padding: 10px 28px;
+
+}
